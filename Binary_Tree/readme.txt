@@ -9,3 +9,6 @@ Duplicate Pair
 Parent has more than one child
 Multiple roots
 Input contains cycle
+
+Another Version is ran in Python although does not have the same error detecting capabilities
+contains same functions otherwise
